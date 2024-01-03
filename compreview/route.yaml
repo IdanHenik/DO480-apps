@@ -8,7 +8,7 @@ metadata:
     name: hello-app
   namespace: compreview-install
 spec:
-  host: hello-app.apps.ocp4.example.com
+  host: hello-app.apps.cluster-7nn69.dynamic.redhatworkshops.io
   subdomain: ''
   to:
     kind: Service
