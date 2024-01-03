@@ -21,5 +21,5 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: example-registry-quay-registry.apps.cluster-7nn69.dynamic.redhatworkshops.io/repository/quayadmin/do480-hello:v10
+        image: example-registry-quay-registry.apps.cluster-7nn69.dynamic.redhatworkshops.io/quayadmin/hello-world-nginx/hello-app:v1.0
 ---
